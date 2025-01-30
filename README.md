@@ -30,6 +30,15 @@
 5. Con node (versión 20.10 o superior) puedes levantar el bot así: `node --env-file=.env --watch NOMBRE_FICHERO.js`
 6. Entra en tu bot generado en telegram y envía los mensajes
 
+--
+
+## Así funciona un bot de telegram
+
+[Ver gráfico](https://mermaid.ink/img/pako:eNp9k99O2zAUxl_lyLstiLRN0mbSJPoHhAYDjW7alnBxGp8Gb44d2QmitH2kXfEIfbE5CRsZTMuVZf--cz5_J96wVHNiEcsMFrewmL1NFMBx_MlWaIS-gYODd9u5utv_RMhJWfxOW5jEx0UBnGBBkpwwv6lFky5rtRSpKCsOCBLh-OpsC9P4msyd4NqQfaWeNuqPRC96zeILAUtdwnT_yEWmG3jWwFdGp2QRSD7j8_h8_5iJFF0DCRNdNvy84S-LVGiFMoJziTlCY8sC3ZdkFNotnLQGHWVh3uxq29GfkiKD4NwXFdkSt3AauwqvrnL6j9Bq6K4iWav-F99FXdl07v88ikTVmK2W7aimWq1EVhlMxf5RwZlyvlHWCMCX2N38BMtbMu0Ep4aanOog10CqNJQhLC7fzz9s4Wu8qP6KlxRPFOuxnEyOgru_Y1NvJ8wVzClhkVtyWmEly4T1OkefnVFcSrI1s2m9JKwwIkeznmqpTSt-08cxH62exDVDPKNzXJKcYPojM7pyFlqUxukwwA7q5lKKF_UoDFa-14Geei7ccLvcqvk6nKVUK_7SXTAM_EGHkkJRF_D4wPfDhNXnu0TtXFZVwbGkORelNixaobTUY1iV-nqtUhaVpqLf0ExgPfU_VIGKRRt2z6KD_qHnDUPftR8HwWDUD3ts7bYHo_Fh6Hn-KDzqh8MjfxjueuxBa1fDOxyO-kHgeyN3Ph6HA6_nwqxdXLQPu3nfTZNvjaB14hLObp8c7H4BHY1SGg?type=png)
+
+![image](https://github.com/user-attachments/assets/c8f8a677-ce5c-499d-a4fb-f19aa6687b5e)
+
+
 ---
 
 ## Primeros pasos para crear el bot de telegram

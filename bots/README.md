@@ -1,5 +1,7 @@
 # Bots de Telegram
 
+> Taller práctico con código y referencias para montar un bot de telegram solo para la comunidad de suscriptores premium 🧡 de [Web Reactiva](https://webreactiva.com)
+
 Este repositorio contiene varios bots de Telegram creados con Node.js y Telegraf. A continuación se presenta una lista de los bots disponibles y una breve descripción de sus funcionalidades.
 
 ## Bots
@@ -21,3 +23,7 @@ Este repositorio contiene varios bots de Telegram creados con Node.js y Telegraf
 
 6. **06-polling-and-webhook.js**
    - **Descripción:** Bot de echo que responde con el mismo mensaje que envía el usuario. Detecta si está corriendo en modo `polling` o `webhook` y lo informa al usuario. Soporta ejecución en ambos modos según la configuración de entorno.
+
+---
+
+🧡 Este taller sería imposible sin el apoyo de la comunidad de suscriptores de pago de [Web Reactiva](https://webreactiva.com)

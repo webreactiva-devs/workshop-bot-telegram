@@ -8,6 +8,7 @@
 - Diferentes ejemplos de uso basados en la API del bot de telegram
 - Usaremos node (v20.10 o superior) y la librería telegraf
 
+---
 
 ## Referencias
 
@@ -16,7 +17,7 @@
 - [Ejemplos con Telegraf](https://github.com/feathers-studio/telegraf-docs/tree/master/examples)
 - [Pinggy (túnel para webhooks en local)](https://pinggy.io/)
 
---
+---
 
 ## Ejecutar los bots básicos
 

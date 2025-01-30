@@ -13,8 +13,21 @@
 
 - [API de Bot de Telegram](https://core.telegram.org/bots/api)
 - [Telegraf](https://telegraf.js.org/)
+- [Ejemplos con Telegraf](https://github.com/feathers-studio/telegraf-docs/tree/master/examples)
 - [Pinggy (túnel para webhooks en local)](https://pinggy.io/)
 
+--
+
+## Ejecutar los bots básicos
+
+> Son los que están en la carpeta bots
+
+1. Crear el bot en @BotFather y generar el API token
+2. Duplicar `.env.example` para crear `.env` 
+3. Usar el API Token en `BOT_TOKEN` en el `.env` (el resto solo son necesarios en algunos bots)
+4. Ejecuta `npm install` para cargar las depencias de la carpeta
+5. Con node (versión 20.10 o superior) puedes levantar el bot así: `node --env-file=.env --watch NOMBRE_FICHERO.js`
+6. Entra en tu bot generado en telegram y envía los mensajes
 
 ---
 
@@ -22,7 +35,8 @@
 
 Crear un bot de Telegram con **Node.js** y **Telegraf** sigue un flujo bien definido. Aquí te lo explico paso a paso:
 
-
+¿Por qué telegraf?
+Porque lleva muchos años de desarrollo, porque la API de Bots de telegram es muy estable y porque no tenemos que reinventar la rueda.
 
 ### **1. Crear un bot en Telegram**
 Antes de programar, necesitas obtener un **Token** de acceso.

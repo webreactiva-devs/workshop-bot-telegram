@@ -1,0 +1,17 @@
+{
+  "name": "iss-location",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/telegram.js",
+    "dev:watch": "node --env-file=.env --watch bot-local.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}

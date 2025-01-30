@@ -165,6 +165,24 @@ Aquí tienes un resumen de las principales diferencias entre **polling** y **web
 
 ![image](https://github.com/user-attachments/assets/6835ce5f-c386-4e77-9c03-2cfbd9df9980)
 
+
+### Comandos para levantar el webhook
+
+
+```
+# Publica el webhook
+curl -X POST "https://api.telegram.org/bot{BOT_TOKEN}/setWebhook?url={WEBHOOK_URL}"
+
+# Comprueba el webhook
+curl -s "https://api.telegram.org/bot{BOT_TOKEN}/getWebhookInfo"
+
+# Borra el webhook publicado
+curl -X POST "https://api.telegram.org/bot{BOT_TOKEN}/deleteWebhook"
+
+# Test para comprobar que ahí algo ahí
+curl -X POST "{WEBHOOK_URL}"
+```
+
 ---
 
 🧡 Este taller sería imposible sin el apoyo de la comunidad de suscriptores de pago de [Web Reactiva](https://webreactiva.com)

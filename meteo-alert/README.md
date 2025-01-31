@@ -1,4 +1,4 @@
-# Telegram Weather Bot
+# Telegram Meteo Bot
 
 > Bot que te da el parte metereológico por tu ubicación.
 > 🧡 Por y para la Comunidad Malandriner de webreactiva.com

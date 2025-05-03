@@ -209,4 +209,8 @@ curl -X POST "{WEBHOOK_URL}"
 
 ---
 
+Docu en [DeepWiki](https://deepwiki.com/webreactiva-devs/workshop-bot-telegram)
+
+---
+
 🧡 Este taller sería imposible sin el apoyo de la comunidad de suscriptores de pago de [Web Reactiva](https://webreactiva.com)
